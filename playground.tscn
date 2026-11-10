@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://8lidg4hqe43w"]
+
+[ext_resource type="Texture2D" uid="uid://bbyt6wggpti0r" path="res://logo_metroidvania.png" id="1_rupst"]
+
+[node name="Node2D" type="Node2D" unique_id=348191803]
+
+[node name="LogoMetroidvania" type="Sprite2D" parent="." unique_id=2026694897]
+position = Vector2(240, 122)
+texture = ExtResource("1_rupst")
